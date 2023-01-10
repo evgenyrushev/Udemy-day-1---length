@@ -1,0 +1,1 @@
+print(len(input("Tell me your name and I will tell you how many letters.")))
